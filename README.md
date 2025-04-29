@@ -2,6 +2,8 @@
 
 ZenList is a to-do program for the CC: Tweaked mod.
 
+Right click on "buttons" i.e. text surrounded by right angle brackets to operate the GUI!
+
 ## Specs
 
 -   Advanced Computer
